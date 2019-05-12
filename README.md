@@ -1,6 +1,7 @@
 # Homework
 Youtube
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=ixgv2K8SbBk&feature=youtu.be)
+[![Video Label](https://i9.ytimg.com/vi/ixgv2K8SbBk/mq2.jpg?sqp=CMSG3-YF&rs=AOn4CLBkj_2zNWwoeGT0HlcB67o1mgbVnQ)](https://www.youtube.com/watch?v=ixgv2K8SbBk&feature=youtu.be) 
+
 
 실제 구현 항목
 모든 항목
